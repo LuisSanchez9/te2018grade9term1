@@ -11,16 +11,21 @@ console.log(sum);
 // **** Problem 2 ****
 // Store the difference between sum (above) and 7 in a variable.
 // Print the difference.
+let diff = sum - 7;
+console.log(diff)
 
 
 // **** Problem 3 ****
 // Store the product of difference and 3 in a variable.
 // Print the product.
-
+let product = sum - 3;
+console.log(product)
 
 // **** Problem 4 ****
 // Store the power of the product raised to an exponent of 2 in a variable.
 // Print the power.
+let power = sum 2 ** 2;
+console.log(power)
 
 
 // **** Problem 5 ****

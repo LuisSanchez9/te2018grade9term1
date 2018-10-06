@@ -6,18 +6,4 @@ let nDay=15
 let age=15
 let siblings=1
 let people= "help me"
-let 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Type your code below
+let
