@@ -27,7 +27,7 @@ const READLINE = require("READLINE-sync");
   not (false).
 *******************************************************************************/
 
-let contacts; 
+let contacts;
 let quit;
 
 /******************************************************************************
@@ -38,8 +38,10 @@ let quit;
 *******************************************************************************/
 
 function printGreeting() {
-
+console.log('hello user. Welcome to smart contacts 1.0');
 }
+
+printgreeting();
 
 /******************************************************************************
                                   setupApp()
@@ -63,7 +65,8 @@ function setup() {
 *******************************************************************************/
 
 function getNameInput() {
-
+let contact = READLINE.QUESTION('please enter a contact mane.');
+typeof contactName === 'string';
 }
 
 /******************************************************************************

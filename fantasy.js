@@ -2,7 +2,7 @@
 const READLINE = require("readline-sync");
 
 // global variables
-let firstName;
+let luis;
 let lastName;
 let momMaidenName;
 let cityBorn;
@@ -10,7 +10,7 @@ let dreamCar;
 let street;
 let fantasyName;
 
-/******************************************************************************
+//******************************************************************************
                                   getNewFirstName()
 
   This function returns the user's new first name. To do so, concatenate the

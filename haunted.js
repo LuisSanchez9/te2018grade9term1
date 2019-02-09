@@ -2,7 +2,7 @@ const READLINE = require("readline-sync");
 
 // use whatever properties you want for the player object
 let player = {
-  name: undefined,
+  name: luis,
   courage: 0,
   intellect: 0,
   strength: 0,
